@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Design by http://www.hotwebsitetemplates.net
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Tubos y Calibrados del Prado S.A. de C.V.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/droid_sans_400-droid_sans_700.font.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/radius.js"></script>
+<!-- CuFon ends -->
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li class="active"><a href="about.html">Productos</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <img src="images/TCD_Logo.png" width="650" height="125" alt="image" class="hbg_img" />
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2>Nuestros Productos</h2>
+          <p class="infopost"><img src="images/TubePic3.jpg" width="253" height="223" alt="image"  class="fl" />Actualmente contamos con una amplia diversidad de productos de acuerdo a las necesidades de nuestros clientes.</p>
+          <ul>
+          <blockquote>
+            <p><strong>-</strong> Estirado de tubo a partir de 3/4 hasta tubo capilar en calibre 16 a 22 en acero electrosoldado y cobre</p>
+              <p><strong>-</strong> Maquinados en tornos automaticos</p>
+              <p><strong>-</strong> Fabricacion de tubo a la medida.</p>
+              <p><strong>-</strong> Calibracion de tuberia</p>
+              <p>- Maquila en torno revolver y atuomatico</p>
+            </blockquote>
+          </ul>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Contacto</span></h2>
+        <p>Por favor envie sus comentarios a la siguiente direccion.</p>
+        <p><a href="mailto:contacto@tubosycalibradosdelprado.com">contacto@tubosycalibradosdelprado.com</a></p>
+        <p>También puede seguirnos  en<br />
+        </p>
+        <p><a href="http://www.facebook.com/pages/Tubos-y-Calibrados-del-Prado/208145579237282"><img src="images/facebook_logo.jpg" width="35" height="35" alt="image" class="fl"/></a><a href="http://www.twitter.com/TC_DelPrado"><img src="images/twitter_logo.jpg" width="35" height="35" alt="image"  class="fl"/></a></p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">&copy 2011<span>Desarrollado por: <a href="http://www.teconecta.net/" title="Conecta">Conecta</a></span></p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Design by http://www.hotwebsitetemplates.net
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Tubos y Calibrados del Prado S.A. de C.V.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/droid_sans_400-droid_sans_700.font.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/radius.js"></script>
+<!-- CuFon ends -->
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+          <li class="active"><a href="index.html">Inicio</a></li>
+          <li><a href="about.html">Productos</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <img src="images/TCD_Logo.png" width="650" height="125" alt="image" class="hbg_img" />
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2>Quienes Somos</h2>
+          <p class="infopost"><img src="images/TubePic1.jpg" width="209" height="238" alt="image"  class="fl" />Somos una empresa dedicada a elaborar tubería con aplicaciones en diversos sectores de la industria como son refrigeración, estufas, lavadoras, y  automotriz ofreciendo siempre productos con la mas alta calidad y un excelente servicio.<a href="#" class="com"><span></span></a></p>
+          <p> Contamos con un equipo altamente productivo y la mas avanzada tecnología para ofrecer a nuestros clientes productos que cumplen con los mas altos estandares de calidad </p>
+          <p>Dentro del equipo se encuentran cinco tornos automáticos de alta producción para hacer piezas maquinadas y un banco de estirado de tubo para hacer diferentes diámetros, entre ellos el tubo capilar. </p>
+          <p>&nbsp;</p>
+        </div>
+        <div class="article"> </div>
+        <p class="pages">&nbsp;</p>
+      </div>
+      <div class="sidebar">
+        <div class="searchform">
+          <form id="formsearch" name="formsearch" method="post" action="">
+          </form>
+        </div>
+        <div class="gadget">
+          <h2 class="star">&nbsp;</h2>
+</div>
+        <div class="gadget">
+          <h2 class="star">&nbsp;</h2>
+</div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Contacto</span></h2>
+        <p>Por favor envie sus comentarios a la siguiente direccion.</p>
+        <p><a href="mailto:contacto@tubosycalibradosdelprado.com">contacto@tubosycalibradosdelprado.com</a></p>
+        <p>También puede seguirnos  en</p>
+        <p><a href="http://www.facebook.com/pages/Tubos-y-Calibrados-del-Prado/208145579237282"><img src="images/facebook_logo.jpg" width="35" height="35" alt="image" class="fl"/></a><a href="http://www.twitter.com/TC_DelPrado"><img src="images/twitter_logo.jpg" width="35" height="35" alt="image"  class="fl"/></a></p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">&copy 2011<span>Desarrollado por: <a href="http://www.teconecta.net/" title="Conecta">Conecta</a></span></p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
